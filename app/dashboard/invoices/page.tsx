@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      <p>Invoices</p>
+      <p>Invoices Message</p>
     </div>
   );
 };
